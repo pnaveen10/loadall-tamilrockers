@@ -1,1 +1,3 @@
-"# loadall-tamilrockers" 
+"# loadall-tamilrockers"
+
+Browser console script.
